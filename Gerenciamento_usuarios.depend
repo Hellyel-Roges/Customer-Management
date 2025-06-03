@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1724265349 source:c:\users\helly\music\gerenciamento_usuarios\main.cpp
+	<iostream>
+	<locale>
+	<vector>
+
+1724282906 source:e:\gerenciamento_usuarios\main.cpp
+	<iostream>
+	<locale>
+	<vector>
+	<windows.h>
+	<time.h>
+
+1724282906 source:d:\gerenciamento_usuarios\main.cpp
+	<iostream>
+	<locale>
+	<vector>
+	<windows.h>
+	<time.h>
+
