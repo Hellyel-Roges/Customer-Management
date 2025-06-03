@@ -1,3 +1,4 @@
+// Sendo feito algumas alterações
 #include <iostream>
 #include <locale>
 #include <vector>
@@ -33,7 +34,7 @@ int main() {
             system("cls");
             cout << "BEM-VINDO " << login << endl << endl << endl;
         }else {
-            cout << "Error. Usu�rio Inv�lido." << endl;
+            cout << "Error. Usuário Inválido." << endl;
             system("cls");
         }
 
